@@ -1,0 +1,7 @@
+@use 'CodExietente';
+.nosotros{
+    h1{
+        font-family: CodExietente.$fuente;
+        color: CodExietente.$secundario;
+    }
+}
